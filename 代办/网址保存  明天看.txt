@@ -1,0 +1,49 @@
+https://www.google.com.hk/search?q=%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E5%92%8C%E6%8E%A8%E8%8D%90&newwindow=1&sxsrf=ALeKk02lABz1Qeai_jCnQ-UHA3d1Nrfcbg%3A1627798185916&ei=qToGYaSjN86Xr7wPpIukoAk&oq=%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E5%92%8C%E6%8E%A8%E8%8D%90&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABQw7GTBFjTxZMEYIvIkwRoAHAAeACAAcQBiAHtEZIBBDAuMTaYAQCgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwjkm4zllI_yAhXOy4sBHaQFCZQQ4dUDCA4&uact=5 | 计算广告和推荐 - Google 搜索
+https://www.zhihu.com/question/341529083 | CTR和推荐算法有什么本质区别？ - 知乎
+https://www.zhihu.com/people/si-ta-xi/posts | 石塔西 - 知乎
+https://zhuanlan.zhihu.com/p/63973457 | 推荐系统点击率预估之经典模型回顾 - 知乎
+https://blog.csdn.net/qiqi123i/article/details/104925774 | 推荐系统常见问题（三）：TopN 推荐是对训练集中的用户进行推荐，还是对测试集中的用户进行推荐？_欢迎来到小丁的技术空间-CSDN博客
+https://blog.csdn.net/qiqi123i/article/details/105256583 | 推荐系统常见问题（五）：推荐系统中的目标函数有哪些类型？_欢迎来到小丁的技术空间-CSDN博客
+https://blog.csdn.net/qiqi123i/article/details/105259351 | 推荐系统常见问题（六）：CTR 预估和推荐系统有什么区别？？？_欢迎来到小丁的技术空间-CSDN博客
+https://blog.csdn.net/qiqi123i/article/details/105273116 | 推荐系统常见问题（七）：惊讶！为什么训练集比例越大，效果越差?_欢迎来到小丁的技术空间-CSDN博客_训练集越多
+https://www.csdn.net/tags/MtTaEg0sMjI0OTEtYmxvZwO0O0OO0O0O.html | 推荐系统 - CSDN
+https://www.csdn.net/tags/MtTaEg0sMzc4ODMtYmxvZwO0O0OO0O0O.html | ctr - CSDN
+https://blog.csdn.net/sinat_41475087/article/details/104623241?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.control&spm=1001.2101.3001.4242 | Huawei Proxy Notification
+https://blog.csdn.net/qq_41145281/article/details/109737149?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-5.control&spm=1001.2101.3001.4242 | Huawei Proxy Notification
+https://edu.csdn.net/course/detail/6558?utm_medium=distribute.pc_relevant.none-task-course-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-course-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-4.control | 第五周：推荐系统与CTR预估-人工智能工程师直通车-1-推荐系统简介-AI100讲师的在线视频教程
+https://blog.csdn.net/qq_30841655/article/details/107719174?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-9.control&spm=1001.2101.3001.4242 | 《推荐系统笔记（十）》CTR预估以及一般算法介绍（GBDT+LR）_wangxinRS的博客-CSDN博客
+https://blog.csdn.net/CoderBoom/article/details/88785995?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-12.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-12.control | 推荐系统-Ctr点击率预估理论基础及项目实战_CoderBoom的博客-CSDN博客
+https://www.google.com.hk/search?q=%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F+%E8%AF%84%E5%88%86%E9%A2%84%E6%B5%8B&oq=%E8%AF%84%E5%88%86%E9%A2%84%E6%B5%8B&aqs=chrome.1.69i57j0i5i30j69i60j69i61l2.7735j0j1&sourceid=chrome&ie=UTF-8 | 推荐系统 评分预测 - Google 搜索
+https://www.huaweicloud.com/articles/4cf0c7ce1e52eaa733bae3c89550f8d8.html | 关于推荐系统中评分预测和TOP-N推荐问题的理解 - 华为云
+https://www.zhihu.com/question/20391355 | 关于评分预测和TopN推荐的讨论？ - 知乎
+https://zhuanlan.zhihu.com/p/241968278 | 推荐系统实战之评分预测问题 - 知乎
+https://www.zhihu.com/column/c_1228695589027848192 | 推荐算法工程师成长之路 - 知乎
+https://www.zhihu.com/column/c_1228695589027848192 | 推荐算法工程师成长之路 - 知乎
+https://www.google.com.hk/search?q=%E5%9F%BA%E4%BA%8E%E6%B5%81%E8%A1%8C%E5%BA%A6%E7%9A%84%E6%8E%A8%E8%8D%90&oq=%E5%9F%BA%E4%BA%8E%E6%B5%81%E8%A1%8C%E5%BA%A6%E7%9A%84%E6%8E%A8%E8%8D%90&aqs=chrome..69i57.614j0j1&sourceid=chrome&ie=UTF-8 | 基于流行度的推荐 - Google 搜索
+https://yuancl.github.io/2019/02/23/rs/%E7%AE%80%E5%8D%95%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B%E4%B9%8B%E4%B8%80%20%E5%9F%BA%E4%BA%8E%E6%B5%81%E8%A1%8C%E5%BA%A6%E7%9A%84%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B/ | 简单推荐模型之一:基于流行度的推荐模型 | 雷哥的博客
+https://yuancl.github.io/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B/ | 分类: 推荐模型简介 | 雷哥的博客
+https://yuancl.github.io/2019/02/23/rs/%E7%AE%80%E5%8D%95%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B%E4%B9%8B%E4%B8%80%20%E5%9F%BA%E4%BA%8E%E6%B5%81%E8%A1%8C%E5%BA%A6%E7%9A%84%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B/ | 简单推荐模型之一:基于流行度的推荐模型 | 雷哥的博客
+https://yuancl.github.io/2019/02/24/rs/%E7%AE%80%E5%8D%95%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B%E4%B9%8B%E4%BA%8C%20%E5%9F%BA%E4%BA%8E%E7%9B%B8%E4%BC%BC%E4%BF%A1%E6%81%AF%E7%9A%84%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B/ | 简单推荐模型之二:基于相似信息的推荐模型 | 雷哥的博客
+https://yuancl.github.io/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/ | 分类: 推荐系统 | 雷哥的博客
+https://yuancl.github.io/2019/03/26/rs/%E6%80%BB%E7%BB%93%E7%AF%87-%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/ | 总结篇-推荐算法总结 | 雷哥的博客
+https://yuancl.github.io/2019/03/30/rs/%E6%80%BB%E7%BB%93%E7%AF%87-%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84/ | 总结篇-推荐系统架构 | 雷哥的博客
+https://yuancl.github.io/2019/03/31/rs/%E6%80%BB%E7%BB%93%E7%AF%87-%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%9A%BE%E7%82%B9/ | 总结篇-推荐系统难点 | 雷哥的博客
+https://github.com/yuancl/yuancl.github.io/tree/master/images | yuancl.github.io/images at master · yuancl/yuancl.github.io
+https://yuancl.github.io/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/ | 分类: 推荐系统 | 雷哥的博客
+https://yuancl.github.io/2019/03/26/rs/%E6%80%BB%E7%BB%93%E7%AF%87-%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/ | 总结篇-推荐算法总结 | 雷哥的博客
+https://yuancl.github.io/2019/03/30/rs/%E6%80%BB%E7%BB%93%E7%AF%87-%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84/ | 总结篇-推荐系统架构 | 雷哥的博客
+https://mp.weixin.qq.com/s/0a4Ne9lgx1rmnE1jXfH6zQ | 达观数据个性化推荐系统实践
+https://yuancl.github.io/2019/03/31/rs/%E6%80%BB%E7%BB%93%E7%AF%87-%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E9%9A%BE%E7%82%B9/ | 总结篇-推荐系统难点 | 雷哥的博客
+https://yuancl.github.io/categories/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9E%8B%E7%AE%80%E4%BB%8B/ | 分类: 推荐模型简介 | 雷哥的博客
+https://github.com/zhuanxuhit/kaggle/blob/master/tencentAd/2-%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%89%88%E6%9C%AC.ipynb | kaggle/2-协同过滤版本.ipynb at master · zhuanxuhit/kaggle
+https://www.google.com.hk/search?q=markdown+%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F&newwindow=1&sxsrf=ALeKk00uXHxXsHNmUvXM7JfTfze8y3p44Q%3A1627820495124&ei=z5EGYcCHB4H1-Qaf_4-wAg&oq=markdown+%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgcIABCABBAMMgcIABCABBAMMgUIABCABDIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BwgAEEcQsAM6BAgAEEM6BggAEAcQHkoECEEYAFCD_gNYi48EYMKQBGgBcAJ4AIAB1gOIAfoMkgEHMC44LjQtMZgBAKABAcgBBsABAQ&sclient=gws-wiz&ved=0ahUKEwiAq_ry54_yAhWBet4KHZ__AyYQ4dUDCA4&uact=5 | markdown 数学公式 - Google 搜索
+https://www.zybuluo.com/zhuanxu/note/1104086 | 深入浅出推荐系统之简单推荐模型 - 作业部落 Cmd Markdown 编辑阅读器
+https://www.jianshu.com/p/e74eb43960a1 | Markdown数学公式语法 - 简书
+https://cloud.tencent.com/developer/news/188455 | 深入浅出推荐系统之简单推荐模型 - 云+社区 - 腾讯云
+https://github.com/archted/01-leetCode/new/main | New File
+https://www.google.com.hk/search?q=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F&rlz=1C1GCEA_enSG910US911&oq=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F&aqs=chrome..69i57j69i61l2.743j0j1&sourceid=chrome&ie=UTF-8 | 深入浅出推荐系统 - Google 搜索
+https://www.zybuluo.com/zhuanxu/note/1104086 | 深入浅出推荐系统之简单推荐模型 - 作业部落 Cmd Markdown 编辑阅读器
+https://m.nikkoag.com/article/4151736501/ | 干货 ：深入浅出之推荐系统原理应用介绍 - 万博官网manbetx注册 - 万博manbetx官方app
+https://www.zybuluo.com/zhuanxu/note/985025 | 推荐系统之用户行为分析 - 作业部落 Cmd Markdown 编辑阅读器
+https://xw.qq.com/hot | 腾讯网-QQ.COM
+https://zhuanlan.zhihu.com/p/356545913 | 推荐系统概述 - 知乎
